@@ -1,14 +1,5 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
----
-permalink: /
 title: "About"
 author_profile: true
 redirect_from: 
@@ -44,11 +35,6 @@ My doctoral research sits at the intersection of **cultural responsiveness, ment
 * **Inpatient Psychiatric Social Worker** | *New York State Office of Mental Health (OMH)*  
   Delivered direct clinical care in inpatient psychiatric settings, incorporating creative media and therapeutic group interventions to support patient recovery and systemic rehabilitation.
 
----
-layout: archive
-title: "Research & Publications"
-permalink: /publications/
-author_profile: true
 ---
 
 *\*Note: Publications are indexed under my formal name, Xiaoran Liu.*
