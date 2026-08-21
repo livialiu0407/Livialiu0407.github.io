@@ -75,12 +75,6 @@ Outside of research and clinical work, I love spending time outdoors, whether hi
   <p style="margin-top: 6px; font-size: 0.85em; color: #555;"><em>Out on the water with Phoebe and Powder.</em></p>
 </div>
 
-<!-- Birds Photo with Hope & Blue -->
-<div style="text-align: center; margin: 20px 0 25px 0;">
-  <img src="/assets/att.Lep2yDhNXdnx3gAF3xUiFoQnnxhVaREEHUCoWoFQMZY.jpeg" alt="Xiaoran with Hope and Blue" style="width: 100%; max-width: 420px; height: auto; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.12); border: 1px solid #e0e0e0;" />
-  <p style="margin-top: 6px; font-size: 0.85em; color: #555;"><em>With Hope and Blue.</em></p>
-</div>
-
 ---
 
 ## Contact Information
