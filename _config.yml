@@ -37,15 +37,15 @@ author:
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=XgyRcIoAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
+  inspire-hep      : null
+  impactstory      : null
+  orcid            : null
+  semantic         : null
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  scopus           : null
+  zotero           : null
 
 
   # Repositories and software development
