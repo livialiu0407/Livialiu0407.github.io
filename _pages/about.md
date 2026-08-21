@@ -33,6 +33,7 @@ My doctoral research sits at the intersection of **cultural responsiveness, ment
   Contributing to empirical research examining emotional processing, brain-behavior relationships, and cognitive-affective mechanisms.
 
 * **Inpatient Psychiatric Social Worker** | *New York State Office of Mental Health (OMH)*  (Nov 2025- Present)
+  
   Delivered direct clinical care in inpatient psychiatric settings, incorporating creative media and therapeutic group interventions to support patient recovery.
 
 * **Research Assistant** | *Human Language Analysis Lab (HLab)*, Stony Brook University (May 2022 – Aug 2023)  
