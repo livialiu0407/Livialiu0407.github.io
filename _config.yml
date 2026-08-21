@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-theme                    : "minimal-mistakes-jekyll"
+remote_theme             : "academicpages/academicpages.github.io"
 minimal_mistakes_skin    : "air"
 title                    : "Xiaoran (Livia) Liu"
 title_separator          : "-"
