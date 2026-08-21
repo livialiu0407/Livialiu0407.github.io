@@ -67,7 +67,35 @@ My doctoral research sits at the intersection of **cultural responsiveness, ment
 
 ## Beyond Academia
 
-Outside of research and clinical work, I love spending time outdoors, whether hiking, camping, or kayaking with my two poodles, Phoebe and Powder. I am also passionate about wildlife rehabilitation and local bird rescue, caring for my three resident birds at home (Hope, Blue, and Happy).
+Outside of research and clinical work, I love spending time outdoors, whether hiking, camping, or kayaking with my two poodles, Phoebe and Powder. I am also passionate about wildlife rehabilitation and local bird rescue, caring for my three resident birds at home: Hope, Happy, and Blue.
+
+<!-- Dog Gallery -->
+<div style="display: flex; gap: 15px; justify-content: center; margin: 20px 0 10px 0; flex-wrap: wrap;">
+  <div style="text-align: center; width: 160px;">
+    <img src="/assets/IMG_0206.jpeg" alt="Phoebe" style="border-radius: 10px; width: 100%; height: 160px; object-fit: cover; boxShadow: 0 2px 5px rgba(0,0,0,0.1);" />
+    <small><b>Phoebe</b></small>
+  </div>
+  <div style="text-align: center; width: 160px;">
+    <img src="/assets/att.bhAl-XC3gv-sc-3_jQmvqK5jt0pvB7pUIPZKWd47l-A.jpeg" alt="Powder" style="border-radius: 10px; width: 100%; height: 160px; object-fit: cover; boxShadow: 0 2px 5px rgba(0,0,0,0.1);" />
+    <small><b>Powder</b></small>
+  </div>
+</div>
+
+<!-- Bird Gallery -->
+<div style="display: flex; gap: 12px; justify-content: center; margin: 10px 0 20px 0; flex-wrap: wrap;">
+  <div style="text-align: center; width: 130px;">
+    <img src="/assets/IMG_2266.jpeg" alt="Hope" style="border-radius: 10px; width: 100%; height: 130px; object-fit: cover; boxShadow: 0 2px 5px rgba(0,0,0,0.1);" />
+    <small><b>Hope</b></small>
+  </div>
+  <div style="text-align: center; width: 130px;">
+    <img src="/assets/att.9B8bjzrP9b9cTcoV2F6sUc086cms27jwnZkRqb2-N74.jpeg" alt="Happy" style="border-radius: 10px; width: 100%; height: 130px; object-fit: cover; boxShadow: 0 2px 5px rgba(0,0,0,0.1);" />
+    <small><b>Happy</b></small>
+  </div>
+  <div style="text-align: center; width: 130px;">
+    <img src="/assets/att.QkDx1FuZhhvqG55FmG-y6vrXfA-AxoEOZQQqPDzfgWc.jpeg" alt="Blue" style="border-radius: 10px; width: 100%; height: 130px; object-fit: cover; boxShadow: 0 2px 5px rgba(0,0,0,0.1);" />
+    <small><b>Blue</b></small>
+  </div>
+</div>
 
 ---
 
