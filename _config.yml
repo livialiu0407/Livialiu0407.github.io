@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
  
-  avatar           : "images/69DE5F11-0DBC-40D9-B9A5-DEC98B8D9450.jpeg"
+  avatar           : "69DE5F11-0DBC-40D9-B9A5-DEC98B8D9450.jpeg"
   name             : "Xiaoran (Livia) Liu"
   pronouns         : "she/her/hers"  
   bio              : "PhD Student at NYU Silver School of Social Work"
