@@ -69,32 +69,16 @@ My doctoral research sits at the intersection of **cultural responsiveness, ment
 
 Outside of research and clinical work, I love spending time outdoors, whether hiking, camping, or kayaking with my two poodles, Phoebe and Powder. I am also passionate about wildlife rehabilitation and local bird rescue, caring for my three resident birds at home: Hope, Happy, and Blue.
 
-<!-- Dog Gallery -->
-<div style="display: flex; gap: 20px; justify-content: center; align-items: flex-start; margin: 20px 0 15px 0; flex-wrap: wrap;">
-  <div style="text-align: center; max-width: 180px; flex: 1 1 150px;">
-    <img src="/assets/IMG_0206.jpeg" alt="Phoebe" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.12); border: 1px solid #e0e0e0;" />
-    <p style="margin-top: 6px; font-size: 0.9em;"><b>Phoebe</b></p>
-  </div>
-  <div style="text-align: center; max-width: 180px; flex: 1 1 150px;">
-    <img src="/assets/att.bhAl-XC3gv-sc-3_jQmvqK5jt0pvB7pUIPZKWd47l-A.jpeg" alt="Powder" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.12); border: 1px solid #e0e0e0;" />
-    <p style="margin-top: 6px; font-size: 0.9em;"><b>Powder</b></p>
-  </div>
+<!-- Outdoors Photo with Phoebe & Powder -->
+<div style="text-align: center; margin: 20px 0 25px 0;">
+  <img src="/assets/att.GVsk_-Nh_06GTdkTnRTQ4MVjV_8ABGpA04oLsAOhGR8.jpeg" alt="Xiaoran with Phoebe and Powder" style="width: 100%; max-width: 520px; height: auto; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.12); border: 1px solid #e0e0e0;" />
+  <p style="margin-top: 6px; font-size: 0.85em; color: #555;"><em>Out on the water with Phoebe and Powder.</em></p>
 </div>
 
-<!-- Bird Gallery -->
-<div style="display: flex; gap: 15px; justify-content: center; align-items: flex-start; margin: 15px 0 25px 0; flex-wrap: wrap;">
-  <div style="text-align: center; max-width: 140px; flex: 1 1 120px;">
-    <img src="/assets/IMG_2266.jpeg" alt="Hope" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.12); border: 1px solid #e0e0e0;" />
-    <p style="margin-top: 6px; font-size: 0.85em;"><b>Hope</b></p>
-  </div>
-  <div style="text-align: center; max-width: 140px; flex: 1 1 120px;">
-    <img src="/assets/att.9B8bjzrP9b9cTcoV2F6sUc086cms27jwnZkRqb2-N74.jpeg" alt="Happy" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.12); border: 1px solid #e0e0e0;" />
-    <p style="margin-top: 6px; font-size: 0.85em;"><b>Happy</b></p>
-  </div>
-  <div style="text-align: center; max-width: 140px; flex: 1 1 120px;">
-    <img src="/assets/att.QkDx1FuZhhvqG55FmG-y6vrXfA-AxoEOZQQqPDzfgWc.jpeg" alt="Blue" style="width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.12); border: 1px solid #e0e0e0;" />
-    <p style="margin-top: 6px; font-size: 0.85em;"><b>Blue</b></p>
-  </div>
+<!-- Birds Photo with Hope & Blue -->
+<div style="text-align: center; margin: 20px 0 25px 0;">
+  <img src="/assets/att.Lep2yDhNXdnx3gAF3xUiFoQnnxhVaREEHUCoWoFQMZY.jpeg" alt="Xiaoran with Hope and Blue" style="width: 100%; max-width: 420px; height: auto; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.12); border: 1px solid #e0e0e0;" />
+  <p style="margin-top: 6px; font-size: 0.85em; color: #555;"><em>With Hope and Blue.</em></p>
 </div>
 
 ---
