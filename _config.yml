@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
+ 
   avatar           : "images/69DE5F11-0DBC-40D9-B9A5-DEC98B8D9450.jpeg"
   name             : "Xiaoran (Livia) Liu"
   pronouns         : "she/her/hers"  
