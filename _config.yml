@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : theme: "minimal-mistakes-jekyll"
-minimal_mistakes_skin    : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "minimal-mistakes-jekyll"
+minimal_mistakes_skin    : "air"
 title                    : "Xiaoran (Livia) Liu"
 title_separator          : "-"
 name                     : &name "Xiaoran (Livia) Liu"
