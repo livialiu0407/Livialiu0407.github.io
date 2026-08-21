@@ -45,12 +45,10 @@ My doctoral research sits at the intersection of **cultural responsiveness, ment
   Delivered direct clinical care in inpatient psychiatric settings, incorporating creative media and therapeutic group interventions to support patient recovery and systemic rehabilitation.
 
 ---
-
 layout: archive
 title: "Research & Publications"
 permalink: /publications/
 author_profile: true
-
 ---
 
 *\*Note: Publications are indexed under my formal name, Xiaoran Liu.*
@@ -77,7 +75,7 @@ author_profile: true
 
 ## Beyond Academia
 
-Outside of research and clinical work, I love spending time outdoors—whether hiking, camping, or kayaking with my two poodles, Phoebe and Powder. I am also passionate about wildlife rehabilitation and local bird rescue, caring for my three resident birds at home (Hope, Blue, and Happy).
+Outside of research and clinical work, I love spending time outdoors, whether hiking, camping, or kayaking with my two poodles, Phoebe and Powder. I am also passionate about wildlife rehabilitation and local bird rescue, caring for my three resident birds at home (Hope, Blue, and Happy).
 
 ---
 
