@@ -27,22 +27,6 @@ My doctoral research sits at the intersection of **cultural responsiveness, ment
 
 ---
 
-## Research & Clinical Experience
-
-* **Graduate Research Assistant** | *Queens Affective Neuroscience Lab* (Sept 2024 – Present)  
-  Contributing to empirical research examining emotional processing, brain-behavior relationships, and cognitive-affective mechanisms.
-
-* **Inpatient Psychiatric Social Worker** | *New York State Office of Mental Health*  (Nov 2025- Present)
-  Delivered direct clinical care in inpatient psychiatric settings, incorporating creative media and therapeutic group interventions to support patient recovery.
-
-* **Research Assistant** | *Human Language Analysis Lab (HLab)*, Stony Brook University (May 2022 – Aug 2023)  
-  Annotated linguistic relationships, authored research prompts and measurement protocols, and assisted with participant recruitment and study execution for computational language projects.
-
-* **Research Assistant** | *World Trade Center Personality and Health Project*, Stony Brook University (Apr 2022 – Aug 2022)  
-  Executed ETL data cleaning pipelines and monitored long-term mental and physical health trajectories of 9/11 first responders.
-
----
-
 ## Beyond Academia
 
 Outside of research and clinical work, I love spending time outdoors, whether hiking, camping, or kayaking with my two poodles, Phoebe and Powder. I am also passionate about wildlife rehabilitation and local bird rescue, caring for my three resident birds at home: Hope, Happy, and Blue.
