@@ -3,7 +3,7 @@ title: "Paper Title Number 1"
 collection: publications
 category: manuscripts
 permalink: /publication/ 
-date: 2025
+date: 2025-09-09
 venue: 'Journal 1'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
