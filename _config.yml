@@ -15,11 +15,11 @@ title_separator          : "-"
 name                     : &name "Xiaoran (Livia) Liu"
 description              : &description "PhD Student at NYU Silver School of Social Work"   # Update this with a general description of your site, this is the default if not overridden by a page
 # Site Settings
-url: "https://livialiu0407.github.io"
-baseurl: ""
+url                      : "https://livialiu0407.github.io"
+baseurl                  : ""
 
 # Repository Settings
-repository: "livialiu0407/livialiu0407.github.io"
+repository               : "livialiu0407/livialiu0407.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
