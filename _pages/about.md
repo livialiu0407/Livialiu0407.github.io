@@ -40,28 +40,6 @@ My doctoral research sits at the intersection of **cultural responsiveness, ment
 
 * **Research Assistant** | *World Trade Center Personality and Health Project*, Stony Brook University (Apr 2022 – Aug 2022)  
   Executed ETL data cleaning pipelines and monitored long-term mental and physical health trajectories of 9/11 first responders.
-  
----
-
-*\*Note: Publications are indexed under my formal name, Xiaoran Liu.*
-## Peer-Reviewed Publications
-
-* Varadarajan, V., Mahwish, S., **Liu, X.**, Buffolino, J., Luhmann, C., Boyd, R., & Schwartz, H. A. (2025). Capturing Human Cognitive Styles with Language: Towards an Experimental Evaluation Paradigm. *Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)*. [DOI: 10.18653/v1/2025.naacl-short.81](https://doi.org/10.18653/v1/2025.naacl-short.81)
-
-* Varadarajan, V., Juhng, S., Mahwish, S., **Liu, X.**, Luby, J., Luhmann, C., & Schwartz, H. A. (2023). Transfer and Active Learning for Dissonance Detection: Addressing the Rare-Class Challenge. *arXiv preprint*. [DOI: 10.48550/arXiv.2305.02459](https://doi.org/10.48550/arXiv.2305.02459)
-
----
-
-## Conference Abstracts & Manuscripts in Submission
-
-* **Liu, X.**,An, R. (Submitted for 2027). *Understanding Asian American Help-Seeking Through NLP Towards Culturally Responsive Suicide Prevention*. Abstract submitted to the Society for Social Work and Research (SSWR) 31st Annual Conference.
-
----
-
-## Active Research Appointments
-
-* **Graduate Research Assistant** | *Queens Affective Neuroscience Lab* (Sept 2024 – Present)
-  * Contributing to empirical research examining emotional processing, brain-behavior relationships, and cognitive-affective mechanisms.
 
 ---
 
