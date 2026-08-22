@@ -20,7 +20,7 @@ Work Experience
 ======
 * Creedmoor Psychiatric Center
   * Inpatient Social Worker
-  * 11/2024  -  Present
+  * 11 / 2024  -  Present
     * Lead group therapy sessions to help patients develop coping and social skills, learn about different types of mental health disorders, and build social connections
     * Work collaboratively with other members of the treatment team including physicians, nurses, and
 group leaders, to ensure coordinated care so clients receive the necessary support and services
@@ -33,43 +33,43 @@ mental health recovery
     * Provide individual counseling services to support discharge plan
 * Queens Affective Neuroscience Lab (QAN Lab)
   * Research Assistant
-  * 09/2024  -  Present
+  * 09 / 2024  -  Present
     * Schedule participants for appointments and run experiments independently
     * Support the research project across various stages and provide literature review
 * Selfhelp New York Connects
   * Social worker
-  * 08/2024 -  11/2024
+  * 08 / 2024  -  11 / 2024
     * Performed client intake by phone and in-person. Took information from clients or collateral (e.g.,family members, physicians, etc.) to determine eligibility and service needs
     * Screened for benefits and entitlements, can assist with applications and advocacy for
 government-funded and privately funded programs
     * Provided person-centered options counseling around client preference for services
 * Human Language Analysis Beings (HLAB) Research Lab
   * Research Assistant
-  * 05/2022  -  08/2023
+  * 05 / 2022  -  08 / 2023
     * Classified the relationship between linguistic elements and provided annotations of language
 segments
     * Wrote research prompts and measurement steps for the research project
     * Assisted in running experiments and contributed to research activities in the lab
 * Psychiatric Doctor Office of Jiangping Zhang, MD & PHD
   * Receptionist & Intake Specialist
-  * 04/2022  -  06/2023
+  * 04 / 2022  -  06 / 2023
     * Scheduled appointments, accessed patient information, and processed payments through
 MDLand’s iClinic system
     * Conducted initial intake and completed required clinical documentation, assessments, and forms in a timely manner
 * Creedmoor Psychiatric Center
   * Inpatient Social Worker Intern
-  * 08/2022  -  05/2023
+  * 08 / 2022  -  05 / 2023
     * Provided weekly group and individual psychotherapy sessions
     * Wrote annual treatment plans, core histories, progress notes, and psychosocial assessments
     * Coordinated patient discharge and continuity of care planning
 * World Trade Center Personality & Health Project
   * Research Assistant
-  * 04/2022  -  08/2022
+  * 04 / 2022  -  08 / 2022
     * Collected, cleaned data, and edited data for ETL (Extract, transform, load)
     * Assessed and tracked both the mental and physical health of first responders to 9/11
 * Big Brothers Big Sisters of Long Island
   * Enrollment Team Intern
-  * 09/2021  -  05/2022
+  * 09 / 2021  -  05 / 2022
     * Interviewed volunteers and client families, including both parents and children
     * Assessed eligibility through interviews and RPI survey
     * Evaluated and wrote assessments via Matchforce
